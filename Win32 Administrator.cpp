@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("this is first github");
+	printf("Commit Code");
 	getchar();
 	return 0;
 }
